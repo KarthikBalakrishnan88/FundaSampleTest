@@ -1,7 +1,7 @@
 ********************************************
-*Sample Assignment for Tester Role in Funda:*
+* Assignment for Tester Role in Funda:     *
 ********************************************
-> The framework is build using Selenium - Maven - Java - Junit Framework. 
+> The framework is built using Selenium - Maven - Java - Junit Framework. 
   To execute the test you would need to open this in Eclipse.
 
 Structure of the Frame Work:
